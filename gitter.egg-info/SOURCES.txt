@@ -1,0 +1,10 @@
+README.md
+setup.py
+gitter/__init__.py
+gitter/gitter_meta.py
+gitter.egg-info/PKG-INFO
+gitter.egg-info/SOURCES.txt
+gitter.egg-info/dependency_links.txt
+gitter.egg-info/requires.txt
+gitter.egg-info/top_level.txt
+tests/test_gitter.py
